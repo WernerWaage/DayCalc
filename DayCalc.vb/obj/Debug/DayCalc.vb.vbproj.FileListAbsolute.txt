@@ -1,0 +1,34 @@
+C:\Users\wwa\AppData\Local\Temporary Projects\DayCalc.vb\bin\Debug\DayCalc.vb.exe
+C:\Users\wwa\AppData\Local\Temporary Projects\DayCalc.vb\bin\Debug\DayCalc.vb.pdb
+C:\Users\wwa\AppData\Local\Temporary Projects\DayCalc.vb\bin\Debug\DayCalc.vb.xml
+C:\Users\wwa\AppData\Local\Temporary Projects\DayCalc.vb\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\wwa\AppData\Local\Temporary Projects\DayCalc.vb\obj\Debug\DayCalc.vb.DayCalc.resources
+C:\Users\wwa\AppData\Local\Temporary Projects\DayCalc.vb\obj\Debug\DayCalc.vb.Resources.resources
+C:\Users\wwa\AppData\Local\Temporary Projects\DayCalc.vb\obj\Debug\DayCalc.vb.vbproj.GenerateResource.Cache
+C:\Users\wwa\AppData\Local\Temporary Projects\DayCalc.vb\obj\Debug\DayCalc.vb.exe
+C:\Users\wwa\AppData\Local\Temporary Projects\DayCalc.vb\obj\Debug\DayCalc.vb.xml
+C:\Users\wwa\AppData\Local\Temporary Projects\DayCalc.vb\obj\Debug\DayCalc.vb.pdb
+\\gassco.no\norway\Privatep02\wwa\Visual Studio 2008\Projects\DayCalc.vb\DayCalc.vb\bin\Debug\DayCalc.vb.exe
+\\gassco.no\norway\Privatep02\wwa\Visual Studio 2008\Projects\DayCalc.vb\DayCalc.vb\bin\Debug\DayCalc.vb.pdb
+\\gassco.no\norway\Privatep02\wwa\Visual Studio 2008\Projects\DayCalc.vb\DayCalc.vb\bin\Debug\DayCalc.vb.xml
+\\gassco.no\norway\Privatep02\wwa\Visual Studio 2008\Projects\DayCalc.vb\DayCalc.vb\obj\Debug\ResolveAssemblyReference.cache
+\\gassco.no\norway\Privatep02\wwa\Visual Studio 2008\Projects\DayCalc.vb\DayCalc.vb\obj\Debug\DayCalc.vb.DayCalc.resources
+\\gassco.no\norway\Privatep02\wwa\Visual Studio 2008\Projects\DayCalc.vb\DayCalc.vb\obj\Debug\DayCalc.vb.Resources.resources
+\\gassco.no\norway\Privatep02\wwa\Visual Studio 2008\Projects\DayCalc.vb\DayCalc.vb\obj\Debug\DayCalc.vb.vbproj.GenerateResource.Cache
+\\gassco.no\norway\Privatep02\wwa\Visual Studio 2008\Projects\DayCalc.vb\DayCalc.vb\obj\Debug\DayCalc.vb.exe
+\\gassco.no\norway\Privatep02\wwa\Visual Studio 2008\Projects\DayCalc.vb\DayCalc.vb\obj\Debug\DayCalc.vb.xml
+\\gassco.no\norway\Privatep02\wwa\Visual Studio 2008\Projects\DayCalc.vb\DayCalc.vb\obj\Debug\DayCalc.vb.pdb
+C:\Users\wwa\Desktop\DayCalc.vb\DayCalc.vb\obj\Debug\DayCalc.vb.exe
+C:\Users\wwa\Desktop\DayCalc.vb\DayCalc.vb\obj\Debug\DayCalc.vb.xml
+C:\Users\wwa\Desktop\DayCalc.vb\DayCalc.vb\obj\Debug\DayCalc.vb.pdb
+C:\Users\wwa\Desktop\DayCalc.vb\DayCalc.vb\bin\Debug\DayCalc.vb.exe
+C:\Users\wwa\Desktop\DayCalc.vb\DayCalc.vb\bin\Debug\DayCalc.vb.pdb
+C:\Users\wwa\Desktop\DayCalc.vb\DayCalc.vb\bin\Debug\DayCalc.vb.xml
+C:\Users\wwa\Desktop\DayCalc.vb\DayCalc.vb\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\wwa\Desktop\DayCalc.vb\DayCalc.vb\obj\Debug\DayCalc.vb.DayCalc.resources
+C:\Users\wwa\Desktop\DayCalc.vb\DayCalc.vb\obj\Debug\DayCalc.vb.Resources.resources
+C:\Users\wwa\Desktop\DayCalc.vb\DayCalc.vb\obj\Debug\DayCalc.vb.vbproj.GenerateResource.Cache
+C:\Users\wwa\Desktop\DayCalc.vb\DayCalc.vb\bin\Debug\DayCalc.vb.exe.manifest
+C:\Users\wwa\Desktop\DayCalc.vb\DayCalc.vb\bin\Debug\DayCalc.vb.application
+C:\Users\wwa\Desktop\DayCalc.vb\DayCalc.vb\obj\Debug\DayCalc.vb.exe.manifest
+C:\Users\wwa\Desktop\DayCalc.vb\DayCalc.vb\obj\Debug\DayCalc.vb.application

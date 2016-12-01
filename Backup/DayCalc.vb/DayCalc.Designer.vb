@@ -22,21 +22,19 @@ Partial Class DayCalc
     'Do not modify it using the code editor.
     <System.Diagnostics.DebuggerStepThrough()> _
     Private Sub InitializeComponent()
-        Me.DescriptionLbl = New System.Windows.Forms.Label()
-        Me.StartTime = New System.Windows.Forms.DateTimePicker()
-        Me.StartLbl = New System.Windows.Forms.Label()
-        Me.EndLbl = New System.Windows.Forms.Label()
-        Me.EndTime = New System.Windows.Forms.DateTimePicker()
-        Me.LunchChk = New System.Windows.Forms.CheckBox()
-        Me.OtherChk = New System.Windows.Forms.CheckBox()
-        Me.LunchMinutesTxt = New System.Windows.Forms.TextBox()
-        Me.OtherMinutesTxt = New System.Windows.Forms.TextBox()
-        Me.Label3 = New System.Windows.Forms.Label()
-        Me.Label4 = New System.Windows.Forms.Label()
-        Me.BtnSetTimeNow = New System.Windows.Forms.Button()
-        Me.TxtMhrsOut = New System.Windows.Forms.TextBox()
-        Me.btnDetails = New System.Windows.Forms.Button()
-        Me.btnClose = New System.Windows.Forms.Button()
+        Me.DescriptionLbl = New System.Windows.Forms.Label
+        Me.StartTime = New System.Windows.Forms.DateTimePicker
+        Me.StartLbl = New System.Windows.Forms.Label
+        Me.EndLbl = New System.Windows.Forms.Label
+        Me.EndTime = New System.Windows.Forms.DateTimePicker
+        Me.LunchChk = New System.Windows.Forms.CheckBox
+        Me.OtherChk = New System.Windows.Forms.CheckBox
+        Me.LunchMinutesTxt = New System.Windows.Forms.TextBox
+        Me.OtherMinutesTxt = New System.Windows.Forms.TextBox
+        Me.Label3 = New System.Windows.Forms.Label
+        Me.Label4 = New System.Windows.Forms.Label
+        Me.BtnSetTimeNow = New System.Windows.Forms.Button
+        Me.TxtMhrsOut = New System.Windows.Forms.TextBox
         Me.SuspendLayout()
         '
         'DescriptionLbl
@@ -180,32 +178,12 @@ Partial Class DayCalc
         Me.TxtMhrsOut.Size = New System.Drawing.Size(45, 21)
         Me.TxtMhrsOut.TabIndex = 13
         '
-        'btnDetails
-        '
-        Me.btnDetails.Location = New System.Drawing.Point(98, 145)
-        Me.btnDetails.Name = "btnDetails"
-        Me.btnDetails.Size = New System.Drawing.Size(122, 23)
-        Me.btnDetails.TabIndex = 14
-        Me.btnDetails.Text = "Details"
-        Me.btnDetails.UseVisualStyleBackColor = True
-        '
-        'btnClose
-        '
-        Me.btnClose.Location = New System.Drawing.Point(17, 145)
-        Me.btnClose.Name = "btnClose"
-        Me.btnClose.Size = New System.Drawing.Size(74, 23)
-        Me.btnClose.TabIndex = 15
-        Me.btnClose.Text = "Close"
-        Me.btnClose.UseVisualStyleBackColor = True
-        '
         'DayCalc
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Center
-        Me.ClientSize = New System.Drawing.Size(234, 177)
-        Me.Controls.Add(Me.btnClose)
-        Me.Controls.Add(Me.btnDetails)
+        Me.ClientSize = New System.Drawing.Size(243, 161)
         Me.Controls.Add(Me.TxtMhrsOut)
         Me.Controls.Add(Me.BtnSetTimeNow)
         Me.Controls.Add(Me.Label4)
@@ -221,7 +199,7 @@ Partial Class DayCalc
         Me.Controls.Add(Me.DescriptionLbl)
         Me.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedDialog
         Me.Name = "DayCalc"
-        Me.Opacity = 0.8R
+        Me.Opacity = 0.8
         Me.ShowIcon = False
         Me.SizeGripStyle = System.Windows.Forms.SizeGripStyle.Hide
         Me.Text = "DayCalc"
@@ -242,6 +220,5 @@ Partial Class DayCalc
     Friend WithEvents Label4 As System.Windows.Forms.Label
     Friend WithEvents BtnSetTimeNow As System.Windows.Forms.Button
     Friend WithEvents TxtMhrsOut As System.Windows.Forms.TextBox
-    Friend WithEvents btnDetails As Button
-    Friend WithEvents btnClose As Button
+
 End Class

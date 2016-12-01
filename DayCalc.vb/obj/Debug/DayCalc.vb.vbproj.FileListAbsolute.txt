@@ -32,3 +32,13 @@ C:\Users\wwa\Desktop\DayCalc.vb\DayCalc.vb\bin\Debug\DayCalc.vb.exe.manifest
 C:\Users\wwa\Desktop\DayCalc.vb\DayCalc.vb\bin\Debug\DayCalc.vb.application
 C:\Users\wwa\Desktop\DayCalc.vb\DayCalc.vb\obj\Debug\DayCalc.vb.exe.manifest
 C:\Users\wwa\Desktop\DayCalc.vb\DayCalc.vb\obj\Debug\DayCalc.vb.application
+C:\Users\werner\Documents\GitHub\DayCalc\DayCalc.vb\obj\Debug\DayCalc.vb.exe
+C:\Users\werner\Documents\GitHub\DayCalc\DayCalc.vb\obj\Debug\DayCalc.vb.xml
+C:\Users\werner\Documents\GitHub\DayCalc\DayCalc.vb\obj\Debug\DayCalc.vb.pdb
+C:\Users\werner\Documents\GitHub\DayCalc\DayCalc.vb\obj\Debug\DayCalc.vb.DayCalc.resources
+C:\Users\werner\Documents\GitHub\DayCalc\DayCalc.vb\obj\Debug\DayCalc.vb.Resources.resources
+C:\Users\werner\Documents\GitHub\DayCalc\DayCalc.vb\obj\Debug\DayCalc.vb.vbproj.GenerateResource.Cache
+C:\Users\werner\Documents\GitHub\DayCalc\DayCalc.vb\bin\Debug\DayCalc.vb.exe
+C:\Users\werner\Documents\GitHub\DayCalc\DayCalc.vb\bin\Debug\DayCalc.vb.pdb
+C:\Users\werner\Documents\GitHub\DayCalc\DayCalc.vb\bin\Debug\DayCalc.vb.xml
+C:\Users\werner\Documents\GitHub\DayCalc\DayCalc.vb\obj\Debug\DayCalc.vb.vbprojResolveAssemblyReference.cache

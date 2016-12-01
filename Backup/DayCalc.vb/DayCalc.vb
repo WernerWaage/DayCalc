@@ -57,17 +57,4 @@
     Private Sub DayCalc_Shown(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles MyBase.Shown
         gFormShown = True
     End Sub
-
-    Private Sub Button1_Click(sender As Object, e As EventArgs) Handles btnClose.Click
-        Me.Close()
-    End Sub
-
-    Private Sub btnDetails_Click(sender As Object, e As EventArgs) Handles btnDetails.Click
-        If Me.Width = 250 Then
-            Me.Width = 500
-        Else
-            Me.Width = 250
-        End If
-
-    End Sub
 End Class
